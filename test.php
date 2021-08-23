@@ -1,4 +1,4 @@
 :i
 <?php 
-echo"Testing php file- Fea";
+echo"Testing php file- Feature";
 ?>:
